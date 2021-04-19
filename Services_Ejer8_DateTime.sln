@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services_Ejer8_DateTime", "Services_Ejer8_DateTime\Services_Ejer8_DateTime.csproj", "{0A982FEE-516F-41B6-A03D-E616DEF9D20A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientDate", "ClientDate\ClientDate.csproj", "{2D5D6051-F767-4BF8-B803-6B6292505BDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A982FEE-516F-41B6-A03D-E616DEF9D20A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A982FEE-516F-41B6-A03D-E616DEF9D20A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A982FEE-516F-41B6-A03D-E616DEF9D20A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A982FEE-516F-41B6-A03D-E616DEF9D20A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D5D6051-F767-4BF8-B803-6B6292505BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D5D6051-F767-4BF8-B803-6B6292505BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D5D6051-F767-4BF8-B803-6B6292505BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D5D6051-F767-4BF8-B803-6B6292505BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B757DB9-562D-42C4-9490-395675DE4760}
+	EndGlobalSection
+EndGlobal
